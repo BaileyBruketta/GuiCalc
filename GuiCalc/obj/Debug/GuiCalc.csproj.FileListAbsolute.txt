@@ -1,0 +1,15 @@
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\bin\Debug\GuiCalc.exe.config
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\bin\Debug\GuiCalc.exe
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\bin\Debug\GuiCalc.pdb
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc.csprojAssemblyReference.cache
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\MainWindow.g.cs
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\App.g.cs
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc_MarkupCompile.cache
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc_MarkupCompile.lref
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\MainWindow.baml
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc.g.resources
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc.Properties.Resources.resources
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc.csproj.GenerateResource.cache
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc.csproj.CoreCompileInputs.cache
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc.exe
+C:\Users\13094\Desktop\guiCalculator\GuiCalc\obj\Debug\GuiCalc.pdb
